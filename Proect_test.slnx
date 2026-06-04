@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CatrazAl_Nunit_Tests/CatrazAl_Nunit_Tests.csproj" />
+  <Project Path="CatrazAl/CatrazAl.csproj" />
+  <Project Path="CatrazAl_Form/CatrazAl_Form.csproj" Id="65ce7bf8-ee74-499b-b4c7-e1951cb796c1" />
+</Solution>
